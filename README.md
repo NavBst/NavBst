@@ -1,6 +1,6 @@
 # Hey there!👋I'm Navneet Bisht
 
-##About Me
+## About Me
 I'm **full-stack web developer** who loves building awesome apps and cool stuff. I love diving into both frontend and backend (frontend mainly though),
 making things look good *and* work smoothly. If you're lookin for someon who's always up for learning new tech and solving problems (or causing them),
 you're in the right place!
