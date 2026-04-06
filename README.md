@@ -14,7 +14,8 @@ you're in the right place!
 ### **Currently Learning:**
 - More advanced React patterns to level up my app building 🏗️
 - Performance optimization - because speed matters! ⏩ 🏎️
-- Next.js to extend my area of expertise 
+- Next.js to extend my area of expertise
+- AI Intregration in web applications.
 
 ---
 
